@@ -9,9 +9,8 @@
 			</methods>
 			</class>
 			<class name="TestNG.DataProviderTestng">
-			
+
 			</class>
-		
 		</classes>
 	</test> <!-- Test1 -->
 </suite> <!-- Suite1 -->
